@@ -20,8 +20,8 @@ I believe code + capital = freedom 🚀
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-[![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat&logo=github&label=Followers&color=lightgrey)](https://github.com/YOUR_GITHUB_USERNAME)
+![Profile views](https://komarev.com/ghpvc/?username=samiulrahman20&color=blue)
+[![Followers](https://img.shields.io/github/followers/samiulrahman20?style=flat&logo=github&label=Followers&color=lightgrey)](https://github.com/samiulrahman20)
 
 ---
 
@@ -39,12 +39,12 @@ I believe code + capital = freedom 🚀
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=false" alt="Samiul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samiulrahman20&show_icons=true&theme=synthwave&hide_border=false" alt="Samiul's GitHub Stats" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiulrahman20)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmansamiul53@gmail.com)
